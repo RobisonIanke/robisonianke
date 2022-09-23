@@ -7,9 +7,9 @@ Bem-vindo(a)
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://img.icons8.com/color/344/amazon-web-services.png">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="AWS" height="30" width="40" src="https://img.icons8.com/color/344/amazon-web-services.png">
+  <img align="center" alt="DATABASE" height="30" width="40" src="https://img.icons8.com/ios/344/database.png">
+   <img align="center" alt="DOCKER" height="30" width="40" src="https://img.icons8.com/fluency/344/docker.png">
 </div>
  
 ##
